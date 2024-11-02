@@ -1,4 +1,4 @@
-# Belajar Penerapan Machine Learning dengan Google Cloud
+# 🚀 Belajar Penerapan Machine Learning dengan Google Cloud
 
 Kelas ini ditujukan bagi siswa yang ingin mempelajari penerapan machine learning menggunakan cloud computing, khususnya Google Cloud, dengan mengacu pada standar industri. Di akhir kelas, siswa mampu membangun aplikasi machine learning dan melakukan deployment menggunakan Google Cloud.
 
