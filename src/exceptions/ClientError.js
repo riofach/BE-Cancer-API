@@ -1,3 +1,4 @@
+//client error
 class ClientError extends Error {
     constructor(message, statusCode = 400) {
         super(message);
